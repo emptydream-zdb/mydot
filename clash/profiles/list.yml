@@ -1,0 +1,59 @@
+files:
+  - time: 1722145355254.yml
+    name: glados.rocks/18391466973zz@gmail.com
+    url: https://update.glados-config.com/clash/518772/0997114/63225/glados.yaml
+    selected:
+      - name: GLOBAL
+        now: GLaDOS-US-01
+      - name: Proxy
+        now: GLaDOS-SG-01
+      - name: Video
+        now: Express
+      - name: Netflix
+        now: Auto-Edge
+      - name: Steam
+        now: GLaDOS-D1-01
+    interval: 12
+    subInfo:
+      upload: 1
+      download: 33162040746
+      total: 53687091200
+      expire: 1753920002
+    mode: rule
+  - time: 1731682278322.yml
+    name: 一元机场
+    url: https://sub3.smallstrawberry.com/api/v1/client/subscribe?token=3804a06c10a3d07d154895ff6bc5ae4d
+    selected:
+      - name: GLOBAL
+        now: DIRECT
+      - name: 一元机场
+        now: 🇭🇰香港 03 | 专线
+    interval: 24
+    subInfo:
+      upload: 163880392
+      download: 23348378316
+      total: 536870912000
+      expire: 1753682753
+    mode: rule
+  - time: 1732461136474.yml
+    name: glados.rocks/2633069208@qq.com
+    url: https://update.glados-config.com/clash/561263/b9a170f/178330/glados.yaml
+    selected:
+      - name: GLOBAL
+        now: DIRECT
+      - name: Proxy
+        now: GLaDOS-HK-01
+      - name: Video
+        now: Express
+      - name: Netflix
+        now: Auto-Edge
+      - name: Steam
+        now: GLaDOS-D1-01
+    interval: 12
+    subInfo:
+      upload: 1
+      download: 659196581
+      total: 53687091200
+      expire: 1763769602
+    mode: rule
+index: 2
